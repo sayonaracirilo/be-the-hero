@@ -11,11 +11,19 @@ Criar Projeto Back
  - npm init -y;
  - npm install express;
 
+ - npm install celebrate //Para validação dos campos
+
+ //Para testes
+ - npm install jest
+ - npx jest --init 
+ - npm install cross-env 
+ - npm install supertest
 
 Criar Projeto Front
 
  - npx create-react-app frontend;
- - 
+
+
 
  
 
